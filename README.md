@@ -2,17 +2,16 @@
 <img align="right" height= "250" width="300" src= "https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 ### 🌟 Welcome to My GitHub Profile! 
-- Aiming to be a Data Analyst.
+- Aiming to be a DevOps Engineer.
 - 📫 How to reach me **satyamraj86978@gmail.com.**
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on an exciting **Data Integeration** project.
-- 🌱 Exploring **Git** and **Linux**.
-- 🎯 Open to collaboration on **Data Science** and **Game Development**.
+- 🔭 Currently working on an exciting **DevOps** projects.
+- 🌱 Exploring **Kubernetes** and **Terraform**.
+- 🎯 Open to collaboration on **DevOps**.
 - 💼 **CSE Student** at Lovely Professional University.
-- 💬 Reach out if you want to talk about **C++**, **Git** or **Linux**.
 - ⚡ Fun fact: I enjoy exploring the latest **tech trends** and playing **strategy games**.
 
 ---
