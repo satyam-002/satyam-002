@@ -3,8 +3,8 @@
 
 ### 🌟 Welcome to My GitHub Profile! 
 - Aiming to be a DevOps Engineer.
-- 📫 How to reach me **satyamraj86978@gmail.com.**
-- CV: https://drive.google.com/file/d/1eX2pvgdGQ1JzSVZAX9jCGUfRBmHMcFME/view?usp=sharing
+- 📫 How to reach me: **satyamraj86978@gmail.com**
+- [**View My CV / Resume**](https://drive.google.com/file/d/1eX2pvgdGQ1JzSVZAX9jCGUfRBmHMcFME/view?usp=sharing)
 
 ---
 
